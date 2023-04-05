@@ -1,0 +1,15 @@
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/bin/Debug/net7.0/Smallest multiple
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/bin/Debug/net7.0/Smallest multiple.deps.json
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/bin/Debug/net7.0/Smallest multiple.runtimeconfig.json
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/bin/Debug/net7.0/Smallest multiple.dll
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/bin/Debug/net7.0/Smallest multiple.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/Smallest multiple.csproj.AssemblyReference.cache
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/Smallest multiple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/Smallest multiple.AssemblyInfoInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/Smallest multiple.AssemblyInfo.cs
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/Smallest multiple.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/Smallest multiple.dll
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/refint/Smallest multiple.dll
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/Smallest multiple.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/Smallest multiple.genruntimeconfig.cache
+/Users/user/Documents/Visual Studio/Project Euler/Smallest multiple/obj/Debug/net7.0/ref/Smallest multiple.dll
