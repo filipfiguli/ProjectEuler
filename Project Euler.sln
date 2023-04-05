@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest palindrome product"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest multiple", "Smallest multiple\Smallest multiple.csproj", "{CA836893-3385-493C-B4D9-582AA95A618D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum square difference", "Sum square difference\Sum square difference.csproj", "{FE393B34-92AD-48E7-8282-80435B73B67A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CA836893-3385-493C-B4D9-582AA95A618D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA836893-3385-493C-B4D9-582AA95A618D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA836893-3385-493C-B4D9-582AA95A618D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE393B34-92AD-48E7-8282-80435B73B67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE393B34-92AD-48E7-8282-80435B73B67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE393B34-92AD-48E7-8282-80435B73B67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE393B34-92AD-48E7-8282-80435B73B67A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

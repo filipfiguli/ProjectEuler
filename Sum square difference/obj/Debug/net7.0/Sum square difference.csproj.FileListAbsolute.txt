@@ -1,0 +1,15 @@
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/bin/Debug/net7.0/Sum square difference
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/bin/Debug/net7.0/Sum square difference.deps.json
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/bin/Debug/net7.0/Sum square difference.runtimeconfig.json
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/bin/Debug/net7.0/Sum square difference.dll
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/bin/Debug/net7.0/Sum square difference.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/Sum square difference.csproj.AssemblyReference.cache
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/Sum square difference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/Sum square difference.AssemblyInfoInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/Sum square difference.AssemblyInfo.cs
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/Sum square difference.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/Sum square difference.dll
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/refint/Sum square difference.dll
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/Sum square difference.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/Sum square difference.genruntimeconfig.cache
+/Users/user/Documents/Visual Studio/Project Euler/Sum square difference/obj/Debug/net7.0/ref/Sum square difference.dll
