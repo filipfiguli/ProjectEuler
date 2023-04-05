@@ -1,0 +1,15 @@
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/Largest prime factor.csproj.AssemblyReference.cache
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/Largest prime factor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/Largest prime factor.AssemblyInfoInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/Largest prime factor.AssemblyInfo.cs
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/Largest prime factor.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/bin/Debug/net7.0/Largest prime factor
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/bin/Debug/net7.0/Largest prime factor.deps.json
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/bin/Debug/net7.0/Largest prime factor.runtimeconfig.json
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/bin/Debug/net7.0/Largest prime factor.dll
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/bin/Debug/net7.0/Largest prime factor.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/Largest prime factor.dll
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/refint/Largest prime factor.dll
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/Largest prime factor.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/Largest prime factor.genruntimeconfig.cache
+/Users/user/Documents/Visual Studio/Project Euler/Largest prime factor/obj/Debug/net7.0/ref/Largest prime factor.dll
