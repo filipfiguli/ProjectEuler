@@ -1,0 +1,15 @@
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/bin/Debug/net7.0/Largest palindrome product
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/bin/Debug/net7.0/Largest palindrome product.deps.json
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/bin/Debug/net7.0/Largest palindrome product.runtimeconfig.json
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/bin/Debug/net7.0/Largest palindrome product.dll
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/bin/Debug/net7.0/Largest palindrome product.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/Largest palindrome product.csproj.AssemblyReference.cache
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/Largest palindrome product.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/Largest palindrome product.AssemblyInfoInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/Largest palindrome product.AssemblyInfo.cs
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/Largest palindrome product.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/Largest palindrome product.dll
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/refint/Largest palindrome product.dll
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/Largest palindrome product.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/Largest palindrome product.genruntimeconfig.cache
+/Users/user/Documents/Visual Studio/Project Euler/Largest palindrome product/obj/Debug/net7.0/ref/Largest palindrome product.dll

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Fibonacci numbers", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest prime factor", "Largest prime factor\Largest prime factor.csproj", "{D5642D79-F644-4C84-A2BD-DB06B3866471}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest palindrome product", "Largest palindrome product\Largest palindrome product.csproj", "{B601ADB4-4B88-4A38-8534-E673BD1808B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D5642D79-F644-4C84-A2BD-DB06B3866471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5642D79-F644-4C84-A2BD-DB06B3866471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5642D79-F644-4C84-A2BD-DB06B3866471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B601ADB4-4B88-4A38-8534-E673BD1808B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B601ADB4-4B88-4A38-8534-E673BD1808B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B601ADB4-4B88-4A38-8534-E673BD1808B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B601ADB4-4B88-4A38-8534-E673BD1808B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
