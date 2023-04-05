@@ -1,0 +1,15 @@
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/bin/Debug/net7.0/10001st prime
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/bin/Debug/net7.0/10001st prime.deps.json
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/bin/Debug/net7.0/10001st prime.runtimeconfig.json
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/bin/Debug/net7.0/10001st prime.dll
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/bin/Debug/net7.0/10001st prime.pdb
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/10001st prime.csproj.AssemblyReference.cache
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/10001st prime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/10001st prime.AssemblyInfoInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/10001st prime.AssemblyInfo.cs
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/10001st prime.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/10001st prime.dll
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/refint/10001st prime.dll
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/10001st prime.pdb
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/10001st prime.genruntimeconfig.cache
+/Users/user/Documents/Visual Studio/Project Euler/10001st prime/obj/Debug/net7.0/ref/10001st prime.dll

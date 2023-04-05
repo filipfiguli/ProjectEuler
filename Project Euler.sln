@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest multiple", "Smalle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum square difference", "Sum square difference\Sum square difference.csproj", "{FE393B34-92AD-48E7-8282-80435B73B67A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10001st prime", "10001st prime\10001st prime.csproj", "{2B757545-ED76-448C-9918-31A11E1065FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FE393B34-92AD-48E7-8282-80435B73B67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE393B34-92AD-48E7-8282-80435B73B67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE393B34-92AD-48E7-8282-80435B73B67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B757545-ED76-448C-9918-31A11E1065FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B757545-ED76-448C-9918-31A11E1065FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B757545-ED76-448C-9918-31A11E1065FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B757545-ED76-448C-9918-31A11E1065FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
