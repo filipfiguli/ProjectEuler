@@ -1,0 +1,15 @@
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/bin/Debug/net7.0/Even Fibonacci numbers
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/bin/Debug/net7.0/Even Fibonacci numbers.deps.json
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/bin/Debug/net7.0/Even Fibonacci numbers.runtimeconfig.json
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/bin/Debug/net7.0/Even Fibonacci numbers.dll
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/bin/Debug/net7.0/Even Fibonacci numbers.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/Even Fibonacci numbers.csproj.AssemblyReference.cache
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/Even Fibonacci numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/Even Fibonacci numbers.AssemblyInfoInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/Even Fibonacci numbers.AssemblyInfo.cs
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/Even Fibonacci numbers.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/Even Fibonacci numbers.dll
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/refint/Even Fibonacci numbers.dll
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/Even Fibonacci numbers.pdb
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/Even Fibonacci numbers.genruntimeconfig.cache
+/Users/user/Documents/Visual Studio/Project Euler/Even Fibonacci numbers/obj/Debug/net7.0/ref/Even Fibonacci numbers.dll
