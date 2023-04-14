@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum square difference", "Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10001st prime", "10001st prime\10001st prime.csproj", "{2B757545-ED76-448C-9918-31A11E1065FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest product in a series", "Largest product in a series\Largest product in a series.csproj", "{B39865AE-D30F-4DDB-9DDD-4902AA375F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial digit sum", "Factorial digit sum\Factorial digit sum.csproj", "{C2907F30-9D59-4908-B2B1-6C0B127FC6DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{2B757545-ED76-448C-9918-31A11E1065FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B757545-ED76-448C-9918-31A11E1065FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B757545-ED76-448C-9918-31A11E1065FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39865AE-D30F-4DDB-9DDD-4902AA375F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39865AE-D30F-4DDB-9DDD-4902AA375F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39865AE-D30F-4DDB-9DDD-4902AA375F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39865AE-D30F-4DDB-9DDD-4902AA375F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2907F30-9D59-4908-B2B1-6C0B127FC6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2907F30-9D59-4908-B2B1-6C0B127FC6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2907F30-9D59-4908-B2B1-6C0B127FC6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2907F30-9D59-4908-B2B1-6C0B127FC6DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
